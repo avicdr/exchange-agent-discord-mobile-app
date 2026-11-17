@@ -1,5 +1,7 @@
 .dart_tool/
 build/
+.flutter-plugins-dependencies
+.scaffold-*/
 android/local.properties
 android/app/google-services.json
 .env
